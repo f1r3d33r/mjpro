@@ -1,0 +1,19 @@
+.font-select{
+	top: 8px;
+}
+
+
+.tab-container-single{
+
+}
+#toplevel_page_iron-music .wp-submenu,
+#toplevel_page_iron-music.opensub .wp-submenu,
+#toplevel_page_iron-music .wp-submenu-wrap{
+	display: none!important;
+}
+
+textarea.import,
+textarea.export{
+	width: 100%;
+	height: 200px;
+}

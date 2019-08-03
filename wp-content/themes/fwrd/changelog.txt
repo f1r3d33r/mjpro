@@ -1,0 +1,69 @@
+----------------------------------------------
+V.1.2.1 - 04.13.2016
+----------------------------------------------
+- Fixed WordPress 4.5 compatibility
+- Updated Visual Composer to version 4.11.2 (Go to WP-Admin > Plugins > Delete the plugin then go to Appearance > Install Plugins > and install the new plugin)
+- Updated Revolution Slider to version 5.2.4.1 (Go to WP-Admin > Plugins > Delete the plugin then go to Appearance > Install Plugins > and install the new plugin)
+
+----------------------------------------------
+V.1.2 - 04.02.2016
+----------------------------------------------
+- Added option to the box link promotion to be open in a target _blank
+- Fixed display issue with audio player when your album title was very long.
+- Fixed issue with Parallax when scrolling was fired before the page has finished loading.
+- Updated Google Font list with new fonts!
+- Updated Visual Composer to version 4.11.1 (Go to WP-Admin > Plugins > and delete the plugin then go to Appearance > Install Plugins > and install the new plugin.)
+- Updated Revolution Slider to version 5.2.4 (Go to WP-Admin > Plugins > and delete the plugin then go to Appearance > Install Plugins > and install the new plugin.)
+- Updated Iron Music Plugin to version 1.2 (Go to WP-Admin > Plugins > and delete the plugin then go to Appearance > Install Plugins > and install the new plugin.)
+- Released new demo: The Peak
+
+
+
+----------------------------------------------
+V.1.1.3 - 03.11.2016
+----------------------------------------------
+- Added option to easily resize logo in theme options
+- Added option to change color on discography posts.
+- Added option to manage your slug name for Events, Videos, Artists and Discography. Go to Iron Music > General Settings
+- Added notice message to admin when Iron Music Plugin is deactivated.
+- Now you can change the color of the hamburger menu.
+- Fixed error notices in them options for default colors
+- Fixed menu width on some mobile device
+- Fixed a conflict when you use the slug name "videos". 
+- Fixed issue with the archive/category blog template options.
+- Update Iron Music plugin to version 1.1
+- When updating to 1.1.3, you will have to update Iron Music Plugin by going to Appearance > Install Plugin
+
+----------------------------------------------
+V.1.1.2 - 02.12.2016
+----------------------------------------------
+- Improved Theme Options UX
+- Fix menu item color when using anchors on home page
+- Fix menu animation and logo header for Safari
+
+----------------------------------------------
+V.1.1.1 - 01.22.2016
+----------------------------------------------
+- Fix logo mini option not visible on the site
+- Fix the menu on Firefox 43.0.4
+- Fix sidebars on single posts
+- Fix call to action links for events
+
+----------------------------------------------
+V.1.1 - 01.15.2016
+----------------------------------------------
+- Updated Visual Composer to 4.9.2 You will probably have to reset your padding and margin for all your Custom Header Widgets.
+- Updated Essential Grid to 2.0.9.1 which fix JS conflicts with WooCommerce.
+- Updated Iron Music to 1.0.1 which fix minor issues with some web servers.
+- New feature! Import our demos in one click using the Iron Demo Importer Plugin provided.
+----------------------------------------------
+V.1.0.1 - 12.23.2015
+----------------------------------------------
+- Fix fatal error for people using prior version of PHP 5.5
+- Fix current menu item styling when using anchor on homepage
+- Fix Iron-Music plugin with the break issue.
+
+----------------------------------------------
+V.1.0 - 01.05.2015
+----------------------------------------------
+- Initial Version

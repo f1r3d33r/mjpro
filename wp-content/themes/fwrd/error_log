@@ -1,0 +1,14 @@
+[04-Aug-2017 11:32:04 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/gmexitocom/public_html/mjproductions/wp-content/themes/fwrd/index.php on line 7
+[21-Sep-2017 12:21:15 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/gmexitocom/public_html/mjproductions/wp-content/themes/fwrd/404.php on line 1
+[21-Sep-2017 12:21:25 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/gmexitocom/public_html/mjproductions/wp-content/themes/fwrd/404.php on line 1
+[23-Sep-2017 14:24:51 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/gmexitocom/public_html/mjproductions/wp-content/themes/fwrd/archive.php on line 8
+[27-Sep-2017 08:45:52 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/gmexitocom/public_html/mjproductions/wp-content/themes/fwrd/archive.php on line 8
+[28-Sep-2017 08:00:38 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/gmexitocom/public_html/mjproductions/wp-content/themes/fwrd/404.php on line 1
+[30-Sep-2017 06:23:50 America/Chicago] PHP Fatal error:  Call to undefined function language_attributes() in /home/gmexitocom/public_html/mjproductions/wp-content/themes/fwrd/header.php on line 2
+[29-Oct-2017 14:23:33 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /homessd/gmexitoc/public_html/mjproductions/wp-content/themes/fwrd/index.php on line 7
+[31-Dec-2017 15:45:21 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home1/gmexitoc/public_html/mjproductions/wp-content/themes/fwrd/index.php on line 7
+[09-Apr-2018 10:40:50 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/gmexitoc/public_html/mjproductions/wp-content/themes/fwrd/404.php on line 1
+[09-Apr-2018 10:40:50 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/gmexitoc/public_html/mjproductions/wp-content/themes/fwrd/404.php on line 1
+[11-Apr-2018 02:18:47 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/gmexitoc/public_html/mjproductions/wp-content/themes/fwrd/archive.php on line 8
+[11-Apr-2018 02:18:47 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/gmexitoc/public_html/mjproductions/wp-content/themes/fwrd/archive.php on line 8
+[18-Sep-2018 17:55:55 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home1/gmexitoc/public_html/mjproductions/wp-content/themes/fwrd/index.php on line 7
